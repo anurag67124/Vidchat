@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Saalik Mubeen",
+  "author": "Anurag Tripathi",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
